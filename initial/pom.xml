@@ -4,7 +4,7 @@
 	<repositories>
 		<repository>
 			<id>maven-group</id>
-			<url>http://localhost:8083/repository/maven-public/</url>
+			<url>http://localhost:8084/repository/maven-public/</url>
 		</repository>
 	</repositories>
 	<modelVersion>4.0.0</modelVersion>
